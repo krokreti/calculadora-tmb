@@ -6,7 +6,7 @@
       </div>
       <div class="grid grid-rows-1 text-white h-11 px-4 sm:flex sm:justify-center" >
         <nuxt-link to="/sexo">
-          <button class="w-full sm:w-min text-white transition-colors duration-150 bg-green-500 sm:rounded-lg focus:shadow-outline hover:bg-gray-800 px-4 py-2 shadow  " >Começar</button>
+          <button class="w-full sm:w-96 text-white transition-colors duration-150 bg-green-500 rounded-lg focus:shadow-outline hover:bg-green-400 px-4 py-2 shadow  " >Começar</button>
         </nuxt-link>
       </div>
     </div>
